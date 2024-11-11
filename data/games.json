@@ -1,0 +1,123 @@
+
+[
+    {
+        "game_title": "Honorable",
+        "release_date": "8/21/2004",
+        "platform": "PlayStation",
+        "genre": "Action",
+        "developer": "Yodo",
+        "publisher": "Voonyx",
+        "rating": 1.4,
+        "multiplayer": true,
+        "dlc_available": true,
+        "price": 10.51
+    },
+    {
+        "game_title": "Rev",
+        "release_date": "8/7/2006",
+        "platform": "PC",
+        "genre": "Adventure",
+        "developer": "Gigaclub",
+        "publisher": "Eabox",
+        "rating": 9.9,
+        "multiplayer": true,
+        "dlc_available": false,
+        "price": 44.16
+    },
+    {
+        "game_title": "Ms",
+        "release_date": "7/21/2004",
+        "platform": "Xbox",
+        "genre": "Sports",
+        "developer": "Jayo",
+        "publisher": "Trunyx",
+        "rating": 7.0,
+        "multiplayer": false,
+        "dlc_available": true,
+        "price": 37.64
+    },
+    {
+        "game_title": "Mr",
+        "release_date": "1/2/2006",
+        "platform": "Nintendo",
+        "genre": "Action",
+        "developer": "Agimba",
+        "publisher": "Roombo",
+        "rating": 1.0,
+        "multiplayer": false,
+        "dlc_available": true,
+        "price": 74.31
+    },
+    {
+        "game_title": "Mr",
+        "release_date": "6/18/2015",
+        "platform": "Xbox",
+        "genre": "Action",
+        "developer": "Avavee",
+        "publisher": "Gevee",
+        "rating": 9.5,
+        "multiplayer": true,
+        "dlc_available": false,
+        "price": 8.80
+    },
+    {
+        "game_title": "Honorable",
+        "release_date": "9/19/2001",
+        "platform": "Xbox",
+        "genre": "Puzzle",
+        "developer": "Skalith",
+        "publisher": "Tagpad",
+        "rating": 7.5,
+        "multiplayer": true,
+        "dlc_available": false,
+        "price": 84.49
+    },
+    {
+        "game_title": "Honorable",
+        "release_date": "11/8/2010",
+        "platform": "Nintendo",
+        "genre": "Action",
+        "developer": "Skidoo",
+        "publisher": "Photolist",
+        "rating": 6.1,
+        "multiplayer": false,
+        "dlc_available": false,
+        "price": 75.25
+    },
+    {
+        "game_title": "Mrs",
+        "release_date": "2/27/2020",
+        "platform": "Nintendo",
+        "genre": "RPG",
+        "developer": "Wordtune",
+        "publisher": "Skynoodle",
+        "rating": 4.0,
+        "multiplayer": true,
+        "dlc_available": false,
+        "price": 28.04
+    },
+    {
+        "game_title": "Rev",
+        "release_date": "5/29/2003",
+        "platform": "Nintendo",
+        "genre": "Puzzle",
+        "developer": "Katz",
+        "publisher": "Jabbersphere",
+        "rating": 2.5,
+        "multiplayer": false,
+        "dlc_available": false,
+        "price": 77.34
+    },
+    {
+        "game_title": "Mrs",
+        "release_date": "1/22/2014",
+        "platform": "Xbox",
+        "genre": "Puzzle",
+        "developer": "Tavu",
+        "publisher": "Vinte",
+        "rating": 6.4,
+        "multiplayer": true,
+        "dlc_available": false,
+        "price": 85.28
+    }
+]
